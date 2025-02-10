@@ -80,23 +80,17 @@ button {
         flex 1; (divide por igual a divs de primeiro nível)
         max-width: 50rem;
     }*/
+    h1, h2 {
+        font-size: 4rem;
+        line-height: 5rem;
 
-h1, h2 (
-
-font-size: Aren;
-
-line-height: Sreng
-
-p. 11. strong f
-
-font-size: 2res
-
-Line-height: 2.5rem;
-
-butoon (
-
-padding: Tren 2ran
-
-font-size: 1.4rem;
-line-height: 2.4rem;
+p. li. strong {
+    font-size: 2rem;
+    line-height: 2.5rem;
+}
+        
+butoon {
+    padding: 1rem 2rem;
+    font-size: 1.4rem;
+    line-height: 2.4rem;
 }
